@@ -1,0 +1,5 @@
+const arr = [1,2,3,4,4,6,1,2,5,6]
+
+const res = new Set(arr);
+
+console.log(res)
